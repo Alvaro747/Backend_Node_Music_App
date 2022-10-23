@@ -1,0 +1,15 @@
+{
+    "name": "",
+    "album": "",
+    "cover": "",
+    "artist":{
+        "name":"",
+        "nickname":"",
+        "nationality": ""
+    },
+    "duration":{
+        "start":"",
+        "end":""
+    },
+    "mediaId":""
+}

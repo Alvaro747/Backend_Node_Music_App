@@ -1,0 +1,4 @@
+USER BD: alvaro122010
+PASS BD: 123456Aa.
+
+mongodb+srv://alvaro122010:123456Aa.@apinode.q413cmu.mongodb.net/?retryWrites=true&w=majority
